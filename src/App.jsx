@@ -7,7 +7,7 @@ function App() {
     <main className="app">
       <header>
         <h1>Chemistry Bonding Simulations</h1>
-        <p className="subtitle">Interactive visualizations of ionic and metallic bonding</p>
+        <p className="subtitle">Interactive visualizations of ionic and metallic bonding by Sacha Silberberg</p>
       </header>
       <IonicSimulation />
       <MetallicSimulation />
